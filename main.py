@@ -4,7 +4,7 @@ def instructions() :
     
 def inputs() :
     
-    inp1 = "" """  gate input """
+    inp1 = "" """ buffer gates inputs """
     inm2 = ""
     inp3 = ""
     inp4 = ""
@@ -15,7 +15,7 @@ def inputs() :
     
 def outputs() :
     
-    out1 = "" """  gate outputs """
+    out1 = "" """ buffer gates outputs """
     out2 = ""
     out3 = ""
     out4 = ""
