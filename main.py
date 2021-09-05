@@ -1,7 +1,22 @@
 def instructions() :
     
-    
-    
+    def add(datas) : """ add instruction """
+        
+        i = 0
+        for i < datas*8 :
+            
+            if i = 0 :
+                
+                i += 1
+                
+            else :
+                
+                datasToReturn += ord(datas[i])
+                
+    def mov(datas) : """ move instruction """
+        
+        
+        
 def inputs() :
     
     inp1 = "" """ buffer gates inputs """
