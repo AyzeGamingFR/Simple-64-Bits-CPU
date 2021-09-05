@@ -1,9 +1,14 @@
+def datas() :
+    
+    movFrom = 000
+    movTo = 000
+    
 def instructions() :
     
     def add(datas) : """ add instruction """
         
         i = 0
-        for i < datas*8 :
+        for i < datas *8 :
             
             if i = 0 :
                 
@@ -17,6 +22,16 @@ def instructions() :
         
         
         
+    def to(datas) :
+        
+        if len(datas) != 5 :
+            
+            
+            
+        else :
+            
+            movTo = datas[1 : 4]
+            
 def inputs() :
     
     inp1 = "" """ buffer gates inputs """
